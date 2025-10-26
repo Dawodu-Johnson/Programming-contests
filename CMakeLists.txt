@@ -45,4 +45,7 @@ add_executable(Programming_contests
         .gitignore
         README.md
         "Meta Hackercup 2025/Practice Round/zoneIn.cpp"
+        "Meta Hackercup 2025/Round 1/Scale1.cpp"
+        "Meta Hackercup 2025/Round 1/Scales2.cpp"
+        "Meta Hackercup 2025/Round 1/Final product.cpp"
 )
