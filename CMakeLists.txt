@@ -33,13 +33,13 @@ add_executable(Programming_contests
         Ieeextreme17/rumors.py
         Ieeextreme17/war_games.py
         Ieeextreme17/watershed.cpp
-        "Meta Hackercup 2023/Practice Round/ Two Apples a Day.cpp"
-        "Meta Hackercup 2023/Practice Round/Cheeseburger Corollary 1.cpp"
-        "Meta Hackercup 2023/Practice Round/Cheeseburger Corollary 2.cpp"
-        "Meta Hackercup 2023/Practice Round/Dim Sum Delivery.cpp"
-        "Meta Hackercup 2023/Round 1/Here Comes Santa Claus.cpp"
-        "Meta Hackercup 2023/Round 1/Sum 41 (Chapter 1).cpp"
-        "Meta Hackercup 2023/Round 2/Ready, Go (Part 1).cpp"
+        "Meta Hackercup 2024/Practice Round/ Two Apples a Day.cpp"
+        "Meta Hackercup 2024/Practice Round/Cheeseburger Corollary 1.cpp"
+        "Meta Hackercup 2024/Practice Round/Cheeseburger Corollary 2.cpp"
+        "Meta Hackercup 2024/Practice Round/Dim Sum Delivery.cpp"
+        "Meta Hackercup 2024/Round 1/Here Comes Santa Claus.cpp"
+        "Meta Hackercup 2024/Round 1/Sum 41 (Chapter 1).cpp"
+        "Meta Hackercup 2024/Round 2/Ready, Go (Part 1).cpp"
         "Meta Hackercup 2025/Practice Round/Warm Up.cpp"
         .clang-format
         .gitignore
