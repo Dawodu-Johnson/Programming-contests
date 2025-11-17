@@ -48,4 +48,8 @@ add_executable(Programming_contests
         "Meta Hackercup 2025/Round 1/Scale1.cpp"
         "Meta Hackercup 2025/Round 1/Scales2.cpp"
         "Meta Hackercup 2025/Round 1/Final product.cpp"
+        "Meta Hackercup 2025/Round 2/A.cpp"
+        "Meta Hackercup 2025/Round 2/B.cpp"
+        "Meta Hackercup 2025/Round 2/C.cpp"
+        "Meta Hackercup 2025/Round 2/D.cpp"
 )
